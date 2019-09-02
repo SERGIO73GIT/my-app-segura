@@ -15,8 +15,7 @@
 		"header": "Bienvenido a Notas CDS",
 		"txt-username": "Nombre de Usuario",
 		"txt-password": "Contraseña",
-		"btn-login": "Login",
-		"incorrect-credentials": "Credenciales Incorrectos"
+		"btn-login": "Login"
 	},
 	"navigation-bar": {
 		"brand": "Notas CDS",
@@ -33,11 +32,7 @@
 		"table-description": "Descripción",
 		"table-date": "Fecha",
 		"delete-note-confirmation": "¿Seguro seguro?",
-		"withdraw-modal-title": "Retirada de Efectivo",
-		"deposit-modal-title": "Ingreso de Efectivo",
 		"txt-amount": "Cantidad",
-		"btn-withdraw": "Aceptar",
-		"btn-deposit": "Ingresar",
 		"txt-title": "Título",
 		"txt-description": "Descripción",
 		"create-note-modal-title": "Nueva Nota",
@@ -46,7 +41,6 @@
 	},
 	"errors": {
 		"note-does-not-exist": "La nota no existe",
-		"account-has-funds": "No se puede eliminar una cuenta con fondos",
 		"lleno": "Se ha llenado la tabla de notas, elimine alguna para introducir nuevas"
 	}
 }
