@@ -1,0 +1,52 @@
+{
+	"global": {
+		"success": "Correcto",
+		"information": "Información",
+		"confirmation": "Confirmación",
+		"error": "Error",
+		"error-occurred": "Ha ocurrido un error. Por favor, inténtelo de nuevo más tarde.",
+		"yes": "Sí",
+		"no": "No"
+	},
+	"app": {
+		"loading-text": ""
+	},
+	"login": {
+		"header": "Bienvenido a Notas CDS",
+		"txt-username": "Nombre de Usuario",
+		"txt-password": "Contraseña",
+		"btn-login": "Login",
+		"incorrect-credentials": "Credenciales Incorrectos"
+	},
+	"navigation-bar": {
+		"brand": "Notas CDS",
+		"notes": "Mis Notas",
+		"dummy": "Dummy",
+		"logout": "Logout"
+	},
+	"notes": {
+		"header": "Mis Notas",
+		"btn-create-note": "Crear Nota",
+		"btn-reload": "Recargar",
+		"no-notes": "¡Nada por aquí, nada por allá!",
+		"table-title": "Título",
+		"table-description": "Descripción",
+		"table-date": "Fecha",
+		"delete-note-confirmation": "¿Seguro seguro?",
+		"withdraw-modal-title": "Retirada de Efectivo",
+		"deposit-modal-title": "Ingreso de Efectivo",
+		"txt-amount": "Cantidad",
+		"btn-withdraw": "Aceptar",
+		"btn-deposit": "Ingresar",
+		"txt-title": "Título",
+		"txt-description": "Descripción",
+		"create-note-modal-title": "Nueva Nota",
+		"modify-note-modal-title": "Editar Nota",
+		"btn-modify-note": "Editar Nota"
+	},
+	"errors": {
+		"note-does-not-exist": "La nota no existe",
+		"account-has-funds": "No se puede eliminar una cuenta con fondos",
+		"lleno": "Se ha llenado la tabla de notas, elimine alguna para introducir nuevas"
+	}
+}
