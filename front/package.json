@@ -28,7 +28,8 @@
 		"style-loader": "^0.23.1",
 		"terser-webpack-plugin": "^1.2.3",
 		"webpack": "^4.42.0",
-		"webpack-cli": "^3.3.11"
+		"webpack-cli": "^3.3.11",
+		"minimist": "^1.2.2"
 	},
 	"babel": {
 		"presets": [
